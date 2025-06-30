@@ -80,14 +80,17 @@ http://127.0.0.1:5000/tareas
 ### Capturas de pantalla
 
 - Registro exitoso
+
 ![Prueba del registro](https://github.com/user-attachments/assets/985b857e-76b6-40c9-8b75-fc304f33d956)
 
 
 - Login exitoso
+
 ![prueba login](https://github.com/user-attachments/assets/25dbaacf-9fc8-46cc-8f02-ae3ad8e23d78)
 
 
 - Página HTML de bienvenida
+
 ![prueba gestor de tareas](https://github.com/user-attachments/assets/b393b074-33e6-49da-a05f-33a88a8fffcc)
 
 
